@@ -6,4 +6,4 @@ En la página principal vemos el título de la empresa con una fotografía con e
 <br>Pinchando en las diferentes secciones nos lleva a páginas con una breve descripción de la empresa.
 <br>También hay una sección de formulario. En él se ha dividido la página en una tabla con dos filas y dos columnas. En el formulario, a parte de entradas de texto también se han incluido entradas de tipo radio, fecha checkbox, área de texto libre y menús de selección.
 <br> Por último, en la última parte del menú principal se han incluido tres links de interés de Inditex.
-https://tatianalb.github.io/practica-2/
+<br> Link a la página web: https://tatianalb.github.io/practica-2/
